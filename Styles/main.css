@@ -13,6 +13,7 @@
 	background: white;
 	border-radius: 3px;
 	padding: 40px;
+	text-align: center;
 }
 
 .sign-up legend{
@@ -60,6 +61,7 @@ button[type='submit']{
 
 .cleanup{
 	border: 0px;
+	text-align: left;
 }
 
 form input{
