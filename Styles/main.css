@@ -1,0 +1,82 @@
+.logo{
+	display: block;
+	margin: 30px auto 30px auto;
+	height: 35px;
+	width: auto;
+}
+
+
+
+.sign-up{
+	width: 400px;
+	margin: 0 auto;
+	background: white;
+	border-radius: 3px;
+	padding: 40px;
+}
+
+.sign-up legend{
+	text-align: center;
+	font-size: 36px;
+	margin: 0 auto 50px;
+}
+
+.sign-up label{
+	padding-left: 27px;
+}
+
+body{
+	background-color: #3e71e2;
+}
+
+input[type='email'],
+input[type='password'] {
+	background: #fcfcfc;
+    border: 2px solid #e7e7e7;
+    margin: 20px auto;
+    width: 296px;
+    display: block;
+    border-radius: 3px;
+    font-size: 18px;
+    text-align: left;
+    height: auto; 
+    padding: 15px 0 15px 20px;
+}
+
+button[type='submit']{
+	background: #5dda5d;
+	text-align: center;
+	font-size: 20px;
+	display: block;
+	margin: 20px auto;
+	border: 2px solid #5dda5d;
+	height: auto;
+	color: white;
+	width: 320px;
+	border-radius: 3px;
+	cursor: pointer;
+	padding: 15px;
+}
+
+.cleanup{
+	border: 0px;
+}
+
+form input{
+	padding: 15px auto 15px 5px;
+}
+
+.test{
+	text-align: right;
+	color: grey;
+}
+
+.bottom {
+	text-align: center;
+	color: white;
+	margin: 20px auto;
+}
+
+.bottom a{
+	color: white;
+}
